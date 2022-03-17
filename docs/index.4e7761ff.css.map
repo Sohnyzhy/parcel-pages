@@ -1,0 +1,1 @@
+{"mappings":"AAAA,EAEA,QAAA,CADA,SAEA,CAEA,KACA,YAAA,CAEA,cAAA,CADA,sBAEA,CAEA,SACA,YACA","sources":["src/style/style.css"],"sourcesContent":["* {\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\nbody {\r\n  display: flex;\r\n  justify-content: center;\r\n  flex-wrap: wrap;\r\n}\r\n\r\nbody img {\r\n  height: 500px;\r\n}\r\n"],"names":[],"version":3,"file":"index.4e7761ff.css.map"}
